@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋</h1>
 
-I'm a Software developer and algorithmic trader with a passion for solving complex problems, creating impactful solutions, and exploring the boundaries between technology and creativity.
+Software engineer and quantitative trader. I build the full stack of systematic trading infrastructure, from feature engineering and ML model development all the way through to live execution.
 
-Here’s a quick glimpse of what I’m about:
+💻 Engineering & Quant Development
+Python is my weapon of choice. I build production-grade trading engines, agentic AI systems, and automated pipelines. I sit at the intersection of software engineering and applied machine learning.
 
-💻 Software & AI Enthusiast: With years of experience in Python, Rust, and system design, I specialize in building scalable tools, trading algorithms, and feature-rich applications.
+📈 4+ Years Live Trading
+Profitable and self-funded, managing my own capital across FX, indices, and commodities through OANDA. I build ML models, deploy them, test them, break them, refine them, and let them trade real money. EURUSD, US30, GER30 are my bread and butter.
 
-📈 Profitable Algorithmic Trader: Leveraging machine learning and statistical models to predict market trends and develop robust trading strategies.
+🤖 Systems & Automation
+I design agentic systems that automate the full strategy lifecycle. Discovery, validation, execution, monitoring. If it can be systematized, I'll build it.
 
-🚀 Creator & Builder: Attempting to write my own sci-fi novel series and build random financial related tools that I intend to release once I upgrade my front-end skills!.
+🚀 The Goal
+I've always dreamt of running my own fund. Every system I build, every model I refine gets me one step closer. It's slowly coming together.
 
-💡 Lifelong Learner: Constantly leveling up my skills, from tackling LeetCode problems, maths challenges and overhauling financial knowledge.
-
+💡 Always Learning
+Quantitative finance, machine learning, systems design. The edge is in never standing still.
